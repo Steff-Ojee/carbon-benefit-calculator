@@ -1,6 +1,6 @@
 # Kenya Carbon Project — Benefit-Sharing Calculator
 
-An open-source tool for computing mandatory benefit-sharing obligations, government levies, and net developer revenue for carbon projects registered under Kenyan law.
+An tool for computing mandatory benefit-sharing obligations, government levies, and net developer revenue for carbon projects registered under Kenyan law.
 
 **→ [Open the Calculator](https://steff-ojee.github.io/kenya-carbon-calculator/kenya-carbon-calculator.html)**
 
